@@ -1,6 +1,6 @@
 # Add an App
 
-First, please make sure the site accepts IFrame. You can check this by inserting the sites URL into this: [IFrame checker](https://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker)
+First, please make sure the site accepts IFrame. You can check this by inserting the sites URL httpsstumble guys.com
 
 ## Ways to add an app to the store
 
@@ -10,7 +10,7 @@ Create an [Issue](https://github.com/win11react/store/issues/new/choose) and fol
 
 ### Via Github Pull Request
 
-Make a pull request by editing the [store.json](https://github.com/win11react/store/blob/main/store/index.json) file
+Make a pull request by editing the [) file
 
 Read the schema below, **BEFORE** adding any game/app element into the `store.json` file:
 
