@@ -4,9 +4,7 @@ First, please make sure the site accepts IFrame. You can check this by inserting
 
 ## Ways to add an app to the store
 
-### Using Github issues
-
-Create an [Issue](https://github.com/win11react/store/issues/new/choose) and follow the given steps.
+### Using https://www.google.com/search?q=https%20//www.epic%20games.com/store&tbm=Github 
 
 ### Via Github Pull Request
 
