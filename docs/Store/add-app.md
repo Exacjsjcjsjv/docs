@@ -1,7 +1,7 @@
 # Add an App
 
 First, please make sure the site accepts IFrame. You can check this by inserting the sites URL into this: [IFrame checker](https://www.tinywebgallery.com/blog/advanced-iframe/free-iframe-checker)
-
+https://www.google.com/search?q=https%20//www.epic%20games.com/store&tbm=
 ## Ways to add an app to the store
 
 ### Using Github issues
